@@ -8,6 +8,8 @@ Citizen.CreateThread(function()
     end
 end)
 
+-- example
+
 Sentic.WeaponComponents = {
     {weaponname = "weapon_pistol", components = "Default Clip: COMPONENT_PISTOL_CLIP_01 Extended Clip: COMPONENT_PISTOL_CLIP_02 Flashlight: COMPONENT_AT_PI_FLSH Suppressor: COMPONENT_AT_PI_SUPP_02 Yusuf Amir Luxury Finish COMPONENT_PISTOL_VARMOD_LUXE"},
     {weaponname = "weapon_minismg", components = "Default Clip: COMPONENT_MINISMG_CLIP_01 Clip: COMPONENT_MINISMG_CLIP_02"},
